@@ -8,5 +8,5 @@ Oh Bother was built to help you and your housemates avoid poorly-timed interrupt
 
 Meanwhile, you’ll always have up-to-date info on your housemates’ statuses, synced automatically through iCloud. You can also set up notifications to let you know when a housemate’s status changes, which might come in handy if your housemate is busy, but you’re really eager to talk to them about the hilarious tweet you just wrote.
 
-Oh Bother is a simple to use, beautifully designed, free app for iPhone. It allows users to tip a few bucks and get a few fun cosmetic options (alternate icons, color palettes, and perhaps more in the future) as a thank-you hug. 
+Oh Bother is a simple to use, beautifully designed, free app for iPhone. It allows users to make a small in-app purchase to support the app and get a few fun cosmetic options in return (alternate icons, color palettes, and perhaps more in the future). 
 
