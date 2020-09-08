@@ -11,7 +11,7 @@ presskit_download_link                    :                  # Enter a link to d
 
 app_icon                                  : /assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Drinksly                                 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A secret menu companion.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -20,8 +20,8 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Yon Montoto                                
-your_link                                 :                      
-your_city                                 : USA                                
+your_link                                 : https://github.com/Yonodactyl/iOS-Portfolio                     
+your_city                                 : Orlando                                
 email_address                             : yon.montoto@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
