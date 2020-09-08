@@ -54,24 +54,24 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#F1F1F1"
-topbar_transparency                       : 0.3
-topbar_title_color                        : "#ffffff"
+topbar_transparency                       : 0.2
+topbar_title_color                        : "#323232"
 
 cover_image                               : assets/drinkslybackdrop.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#F1F1F1"
-cover_overlay_transparency                : 0.85
+cover_overlay_transparency                : 0.5
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#f1f1f1"
 
-link_color                                : "#4379D3"
+link_color                                : "#FF2D55"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#323232"
+app_price_color                           : "#323232"
+app_description_color                     : "#666666"
 
-feature_title_color                       : "#000000"
+feature_title_color                       : "#323232"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#FF2D55"
