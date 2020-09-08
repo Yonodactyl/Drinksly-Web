@@ -36,15 +36,15 @@ features                                  :
 
   - title                                 : Discover.
     description                           : Discover your next go-to drink without the need to experiment. I have tried them all for you!
-    fontawesome_icon_name                 : comment-slash
+    fontawesome_icon_name                 : compass
     
   - title                                 : Favorite.
     description                           : When you find your favorite drink save it for later viewing. No need for blurry photos you found on the internet.
-    fontawesome_icon_name                 : bell
+    fontawesome_icon_name                 : heart
 
   - title                                 : Order.
     description                           : Each drink comes with the exact directions to order it. No more anxiety when the barista ask what you want!
-    fontawesome_icon_name                 : palette
+    fontawesome_icon_name                 : clone
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
