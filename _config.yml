@@ -46,10 +46,6 @@ features                                  :
     description                           : Each drink comes with the exact directions to order it. No more anxiety when the barista ask what you want!
     fontawesome_icon_name                 : clone
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 
 
 # Theme Settings
